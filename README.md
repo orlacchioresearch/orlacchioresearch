@@ -1,6 +1,6 @@
 # Arturo Orlacchio, PhD
 
-Translational oncology scientist working at the interface of **drug discovery, biomarker development, preclinical models, and data-driven experimental strategy**.
+Translational oncology scientist working at the interface of drug discovery, biomarker development, preclinical models, and data-driven experimental strategy.
 
 I use computational and statistical tools to make experimental oncology more reproducible, interpretable, and decision-ready.
 
